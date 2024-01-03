@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "task": "Buy Milk",
+      "status": "pending",
+      "id": 1
+    },
+    {
+      "task": "Car Wash",
+      "status": "completed",
+      "id": 2
+    },
+    {
+      "task": "Temple",
+      "status": "pending",
+      "id": 3
+    }
+  ],
+  "contacts": [
+    {
+      "ContactName": "Harish",
+      "ContactEmail": "tanwerh460@gmail.com",
+      "ContactContact": "7083378818",
+      "ContactDob": "2001-10-30",
+      "id": 1
+    }
+  ]
+}
